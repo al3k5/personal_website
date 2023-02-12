@@ -1,4 +1,4 @@
-# personal_website
+# personal website
 
 A work in progress.
 
